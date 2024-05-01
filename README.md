@@ -17,7 +17,5 @@ The projects rely on command-line tools like Node.js, TypeScript, and Inquirer. 
 
 # Target audience
 
-- Users and developers in need of an adaptable and configurable command-line tool for processing and analyzing data.
-- Those who want to create interactive command-line tools and are interested in learning about TypeScript, Node.js, and Inquirer.
-
-
+- Developers and users in need of a flexible and customizable command-line tool for data processing and analysis
+- People who are interested in learning about TypeScript, Node.js, and Inquirer and who wish to develop interactive command-line utilities
